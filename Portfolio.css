@@ -287,3 +287,7 @@ nav a{
     margin-right: 5px;
 
 } 
+#skills img{
+    width: 40px;
+    height: 40px;
+}
